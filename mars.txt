@@ -1,4 +1,6 @@
 Cold and dry, but everything is my favorite color
 The two moons may be a problem for Wolfman
 But the Mummy will appreciate the lack of humidity
-Added another line (Eike)
+Agreed on following compromise:
+* Added another line (Eike)
+* This is the line that Will is adding at the same time as Eike
